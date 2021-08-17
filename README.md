@@ -14,6 +14,15 @@ This is my RPG game developed using Java OOP and Java Swing. Please refer to the
 
 The player always starts at the top left the goal is to survive as long as possible. On the way several pickups spawn such as treasure, health, sword slashes and magic! You face an endless army of skeletons 💀 and a boss monster 🐲. Good luck surviving! 😎😎
 
+Features Implemented
+- Key Controls: arrow keys to move, F to use magic, E to pause
+- Monster spawning
+- Boss Monster spawning
+- Pickups (Treasure, Life, Magic, Sword Slashes) spawning
+- Score system
+- Game Over screen
+- Background Music
+
 ## How to Play
 
 <ol> 
